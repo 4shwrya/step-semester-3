@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="528c757c-f77c-4ed9-addd-c00e175c9cbf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assignments/P1_GymMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignments/P2_ThreeTiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeProblems/P1_GymMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeProblems/P1_LibraryMembership.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeProblems/P2_MembershipTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeProblems/P3_StudentFineLedger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeProblems/P4_WeeklyCirculationReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeProblems/P5_MembershipAudit.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/4shwrya/step-semester-3.git&quot;,
+    &quot;accountId&quot;: &quot;4b29c4fe-f6d6-45e9-8ab4-2760b3735586&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.LibraryMemberr.executor": "Run",
+    "Application.P1_AccessChecker.executor": "Run",
+    "Application.P1_LibraryMembership.executor": "Run",
+    "Application.P2_AccessChecker.executor": "Run",
+    "Application.P3_BookInventory.executor": "Run",
+    "Application.P4_WeeklyCirculationReport.executor": "Run",
+    "Application.P5_MembershipAudit.executor": "Run",
+    "git-widget-placeholder": "feature/week6",
+    "onboarding.tips.debug.path": "/Users/aishwaryanegi/Documents/IdeaProjects/step-semester-3/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
